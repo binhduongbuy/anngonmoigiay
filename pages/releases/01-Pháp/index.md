@@ -45,4 +45,4 @@ Và bánh mì
 Là bữa ăn dành cho học sinh của một trường học ở phía tây nước Pháp. 
 
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m20!1m8!1m3!1d31228.16508295703!2d108.426539!3d11.938412!3m2!1i1024!2i768!4f13.1!4m9!3e6!4m3!3m2!1d11.9400915!2d108.4261957!4m3!3m2!1d11.938412399999999!2d108.4265387!5e0!3m2!1svi!2sus!4v1533743007369" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3903.5206297295786!2d108.42435001468259!3d11.938412391539552!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31716ccd5b5a6b85%3A0x3048808e27ec907a!2sHO%C3%80NG+PHONG+Hotel!5e0!3m2!1svi!2sus!4v1533744981277" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
