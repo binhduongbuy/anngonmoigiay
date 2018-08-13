@@ -2,8 +2,8 @@
 title: 'Hành trình đi tìm sự sống của cô gái tuổi 25'
 layout: HomePage
 path: '/cogaituoi25/'
-meta: Hành trình đi tìm sự sống của cô gái tuổi 25 Trà Sữa Mẹ Nấu Trà Sữa Chip Chip
-keywords: Hành trình đi tìm sự sống của cô gái tuổi 25 Trà Sữa Mẹ Nấu Trà Sữa Chip Chip
+meta: Hành trình đi tìm sự sống của cô gái tuổi 25 Trà Sữa Phú Quốc Trà Sữa Chip Chip
+keywords: Hành trình đi tìm sự sống của cô gái tuổi 25 Trà Sữa Phú Quốc Trà Sữa Chip Chip
 ---
 
 ## Hành trình đi tìm sự sống của cô gái tuổi 25
@@ -22,7 +22,7 @@ Gia đình tôi hiểu trăn trở của một đứa con gái mới chập ch�
 
 ![Gia đình điểm tựa](https://c1.staticflickr.com/5/4473/37568510790_ee3428e021_n.jpg "Gia đình điểm tựa")
 
-Tôi bắt đầu tiết kiệm, đánh giá và tìm hiểu nhiều hơn về những vấn đề thường gặp của mọi người trên đảo Phú Quốc. Tôi nhận thấy tất cả chúng ta, đều bộn bề với lo toan với cuộc sống. Khi kết thúc công việc, sau những lúc vất vả, đổ mồ hôi cần một nơi để thư giãn, nạp lại năng lượng và gặp gỡ bạn bè. Tôi mới nhận ra rằng cuộc sống thật đáng quý và trân trọng, và tôi quyết định dành nhiều thời gian để làm điều gì đó cho tất cả, tất cả mọi người dù họ đến từ đâu, họ làm gì điều đó không còn quan trọng nữa. Tôi muốn họ có cuộc sống đầy đủ hơn bằng những sự giản đơn nhất. Quán Trà Sữa Mẹ Nấu của tôi bắt đầu hình thành, chỉ đơn giản là chỗ để mọi người cùng đến, cùng chia sẻ, cùng thưởng thức, cùng nhau uống một loại nước dễ chịu, an toàn cho sức khỏe, cùng nhau ở một nơi như một gia đình ấm áp.
+Tôi bắt đầu tiết kiệm, đánh giá và tìm hiểu nhiều hơn về những vấn đề thường gặp của mọi người trên đảo Phú Quốc. Tôi nhận thấy tất cả chúng ta, đều bộn bề với lo toan với cuộc sống. Khi kết thúc công việc, sau những lúc vất vả, đổ mồ hôi cần một nơi để thư giãn, nạp lại năng lượng và gặp gỡ bạn bè. Tôi mới nhận ra rằng cuộc sống thật đáng quý và trân trọng, và tôi quyết định dành nhiều thời gian để làm điều gì đó cho tất cả, tất cả mọi người dù họ đến từ đâu, họ làm gì điều đó không còn quan trọng nữa. Tôi muốn họ có cuộc sống đầy đủ hơn bằng những sự giản đơn nhất. Quán trà sữa Phú Quốc của tôi bắt đầu hình thành, chỉ đơn giản là chỗ để mọi người cùng đến, cùng chia sẻ, cùng thưởng thức, cùng nhau uống một loại nước dễ chịu, an toàn cho sức khỏe, cùng nhau ở một nơi như một gia đình ấm áp.
 
 ![Hạnh phúc cùng tất cả mọi người](https://c1.staticflickr.com/5/4454/37777944986_09c614dd25_n.jpg "Hạnh phúc cùng tất cả mọi người")
 
