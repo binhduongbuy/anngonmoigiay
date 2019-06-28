@@ -3,7 +3,7 @@
 .footer {
   position: relative;
   overflow: hidden;
-  background: #242f3e;
+  background: #FFFF66;
 
   &__wrapper {
     // max-width: 999px;
@@ -12,7 +12,7 @@
     margin: 0 auto;
     box-sizing: border-box;
     background: #FFFF66;
-    color: #fff;
+    color: #666;
   }
 
  &__left {
