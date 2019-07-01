@@ -18,7 +18,7 @@ class Footer extends React.Component {
           </div>
        <div className='footer__left'>
 
-	    <div><img className='footer__powered-svg' src={ prefixLink(iconBakaDono) }/> Ăn Ngon Mỗi Giây</div>
+	    <div><img className='footer__powered-svg' src={ prefixLink(iconBakaDono) }/> Món Ăn Đường Phố</div>
 
 
         </div>
